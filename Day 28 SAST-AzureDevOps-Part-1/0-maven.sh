@@ -24,7 +24,7 @@ sudo systemctl start xray.service
 
 You need license trail license
 copy antifactory license and paste it the key  next  next next
-we need maven repo here - >jfrog >http://jfrog.cloudvishwakarma.in
+we need maven repo here - >jfrog >http://jfrog.testing24.xyz
 finish
 
 
